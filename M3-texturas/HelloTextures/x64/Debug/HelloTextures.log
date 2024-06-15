@@ -1,0 +1,2 @@
+﻿  glad.c
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\Common\src\glad.c(24,10): error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory
