@@ -429,6 +429,7 @@ int main()
 	int numVertices;
 	string materialFileName;
 	string materialName;
+	//GLuint VAO = loadSimpleOBJ("../3D_models/Cube/cube.obj", numVertices, materialFileName, materialName);
 	GLuint VAO = loadSimpleOBJ("../3D_models/Cube/cube.obj", numVertices, materialFileName, materialName);
 
 	string textureFileName = loadSimpleMTL(materialFileName, materialName);
