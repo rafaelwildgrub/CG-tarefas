@@ -1,5 +1,33 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (Hello3D.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
-  glad.c
   Origem.cpp
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
-  Exericio8.vcxproj -> E:\Tarefas Unisinos\CGCCHibrido-main-M2-Rafael\M2 - Cubo\Debug\M2-Cubo.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(327,22): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(327,28): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(327,34): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(328,20): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(328,26): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(328,32): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(329,20): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(329,26): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(329,32): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(331,20): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(331,26): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(331,32): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(332,21): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(332,27): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(332,33): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(333,21): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(333,27): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(333,33): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(337,26): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(337,32): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(338,28): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(338,34): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(339,27): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(339,33): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(341,27): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(341,33): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(342,26): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(342,32): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(343,27): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Exericio8\Origem.cpp(343,33): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+  Exericio8.vcxproj -> C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M2-cubo\Debug\M2-Cubo.exe
