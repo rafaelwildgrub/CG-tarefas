@@ -32,13 +32,13 @@ void loadMTL(string path);
 int setupSprite();
 int loadTexture(string path);
 
-const GLuint WIDTH = 2000, HEIGHT = 1400;
+const GLuint WIDTH = 1600, HEIGHT = 1200;
 bool rotateX = false, rotateY = false, rotateZ = false;
 vector<GLfloat> positions;
 vector<GLfloat> textureCoords;
 string mtlFilePath = "";
 string textureFilePath = "";
-float scale = 200.0f, xTranslation = 0.0f, yTranslation = 0.0f, zTranslation = 0.0f;
+float scale = 50.0f, xTranslation = 0.0f, yTranslation = 0.0f, zTranslation = 0.0f;
 
 
 int main()
@@ -61,7 +61,7 @@ int main()
 	cout << "OpenGL version supported " << version << endl;
 
 	Shader shader("../shaders/sprite.vs", "../shaders/sprite.fs");
-	loadOBJ("../objects/Su-57.obj");
+	loadOBJ("../objects/FA-18F.obj");
 	loadMTL("../objects/" + mtlFilePath);
 	GLuint textureID = loadTexture("../textures/" + textureFilePath);
 	GLuint VAO = setupSprite();
@@ -70,7 +70,7 @@ int main()
 	glUniform1i(glGetUniformLocation(shader.ID, "tex_buffer"), 0);
 
 	glm::mat4 projection = glm::mat4(1);
-	projection = glm::ortho(0.0, 800.0, 0.0, 600.0, -1000.0, 1000.0);
+	projection = glm::ortho(0.0, 800.0, 0.0, 600.0, -1400.0, 1400.0);
 
 	GLint projLoc = glGetUniformLocation(shader.ID, "projection");
 	glUniformMatrix4fv(projLoc, 1, false, glm::value_ptr(projection));
