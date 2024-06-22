@@ -24,6 +24,7 @@
     <ProjectGuid>{7d731b91-d499-42cf-9fc9-1205a933fdde}</ProjectGuid>
     <RootNamespace>CGUnisinos</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>M4-iluminacao</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

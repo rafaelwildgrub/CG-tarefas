@@ -18,7 +18,7 @@ using namespace std;
 #include "SceneObject.cpp"
 
 // Dimensões da janela
-const GLuint WIDTH = 1000, HEIGHT = 1000;
+const GLuint WIDTH = 1600, HEIGHT = 1200;
 
 // Variáveis de controle de rotação
 bool rotateX = false, rotateY = false, rotateZ = false;
@@ -432,6 +432,7 @@ int main()
 	string materialName;
 	//GLuint VAO = loadSimpleOBJ("../3D_models/Suzanne/SuzanneTriTextured.obj", numVertices, materialFileName, materialName);
 	GLuint VAO = loadSimpleOBJ("../3D_models/Cube/cube.obj", numVertices, materialFileName, materialName);
+	//GLuint VAO = loadSimpleOBJ("../3D_models/Naves/LightCruiser05.obj", numVertices, materialFileName, materialName);
 
 	// Carregamento do arquivo MTL para obter as informações do material
 	string textureFileName = loadSimpleMTL(materialFileName, materialName);
