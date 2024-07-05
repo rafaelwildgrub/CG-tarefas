@@ -1,0 +1,20 @@
+﻿  stb_image.cpp
+  Bezier.cpp
+  Camera.cpp
+  Curve.cpp
+  Origem.cpp
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\Curve.cpp(2,10): error C1083: Não é possível abrir arquivo incluir: 'glm/glm.hpp': No such file or directory
+  (compilando o arquivo fonte 'Bezier.cpp')
+  
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\Camera.cpp(2,10): error C1083: Não é possível abrir arquivo incluir: 'glm/glm.hpp': No such file or directory
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\Curve.cpp(2,10): error C1083: Não é possível abrir arquivo incluir: 'glm/glm.hpp': No such file or directory
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\Origem.cpp(10,10): error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory
+  Scene.cpp
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\Scene.cpp(2,10): error C1083: Não é possível abrir arquivo incluir: 'nlohmann/json.hpp': No such file or directory
+  SceneObj.cpp
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\SceneObjInfo.cpp(2,10): error C1083: Não é possível abrir arquivo incluir: 'nlohmann/json.hpp': No such file or directory
+  (compilando o arquivo fonte 'SceneObj.cpp')
+  
+  SceneObjInfo.cpp
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\SceneObjInfo.cpp(2,10): error C1083: Não é possível abrir arquivo incluir: 'nlohmann/json.hpp': No such file or directory
+  Gerando Código...
