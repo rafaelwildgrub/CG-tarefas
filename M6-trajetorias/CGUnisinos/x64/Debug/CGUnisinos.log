@@ -1,59 +1,103 @@
-﻿  Origem.cpp
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(16,28): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+﻿  stb_image.cpp
+  Bezier.cpp
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Curve.cpp(34,50): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
+  (compilando o arquivo fonte 'Bezier.cpp')
+  
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Curve.cpp(42,26): warning C4267: 'return': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte 'Bezier.cpp')
+  
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Bezier.cpp(17,14): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Bezier.cpp(21,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  Camera.cpp
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(16,28): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(17,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(45,19): warning C4244: '-=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(74,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(75,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(79,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(80,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(82,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(83,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  CatmullRom.cpp
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Curve.cpp(34,50): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
+  (compilando o arquivo fonte 'CatmullRom.cpp')
+  
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Curve.cpp(42,26): warning C4267: 'return': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte 'CatmullRom.cpp')
+  
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\CatmullRom.cpp(17,14): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\CatmullRom.cpp(21,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  Curve.cpp
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Curve.cpp(34,50): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Curve.cpp(42,26): warning C4267: 'return': conversão de 'size_t' para 'int', possível perda de dados
+  Hermite.cpp
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Curve.cpp(34,50): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
+  (compilando o arquivo fonte 'Hermite.cpp')
+  
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Curve.cpp(42,26): warning C4267: 'return': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte 'Hermite.cpp')
+  
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Hermite.cpp(17,14): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Hermite.cpp(21,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  Origem.cpp
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(16,28): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(17,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(17,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(45,19): warning C4244: '-=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(45,19): warning C4244: '-=': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(74,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(74,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(75,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(75,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(79,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(79,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(80,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(80,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(82,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(82,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(83,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Camera.cpp(83,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Curve.cpp(34,50): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Curve.cpp(34,50): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Curve.cpp(42,26): warning C4267: 'return': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Curve.cpp(42,26): warning C4267: 'return': conversão de 'size_t' para 'int', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Hermite.cpp(17,14): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Hermite.cpp(17,14): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Hermite.cpp(21,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Hermite.cpp(21,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Bezier.cpp(17,14): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Bezier.cpp(17,14): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Bezier.cpp(21,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Bezier.cpp(21,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\CatmullRom.cpp(17,14): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\CatmullRom.cpp(17,14): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\CatmullRom.cpp(21,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\CatmullRom.cpp(21,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Origem.cpp(100,20): warning C4305: 'inicializando': truncamento de 'double' para 'float'
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Origem.cpp(286,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Origem.cpp(290,13): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Origem.cpp(305,25): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Origem.cpp(367,31): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\Origem.cpp(506,24): warning C4305: 'argumento': truncamento de 'double' para 'float'
-  CGUnisinos.vcxproj -> C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\x64\Debug\M6-trajetoria.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Origem.cpp(100,20): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Origem.cpp(286,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Origem.cpp(290,13): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Origem.cpp(305,25): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Origem.cpp(367,31): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\Origem.cpp(506,24): warning C4305: 'argumento': truncamento de 'double' para 'float'
+  SceneObject.cpp
+  Gerando Código...
+  glad.c
+  CGUnisinos.vcxproj -> C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\x64\Debug\M6-trajetoria.exe

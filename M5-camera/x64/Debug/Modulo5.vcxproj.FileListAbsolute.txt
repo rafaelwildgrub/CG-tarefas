@@ -1,1 +1,2 @@
 C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M5-camera\x64\Debug\M5-camera.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\x64\Debug\M5-camera.exe
