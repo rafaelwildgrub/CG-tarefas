@@ -99,7 +99,7 @@ void adjustRotation(int key)
 	default:
 		break;
 	}
-	
+
 }
 
 //void adjustPlayCurve(int key) {
@@ -315,7 +315,7 @@ int main()
 			scene.sceneObject[i].updateModelMatrix();
 			scene.sceneObject[i].renderObject();
 		}
-		
+
 		resetScaleVariable();
 
 		// Troca os buffers da tela
@@ -325,7 +325,7 @@ int main()
 	for (int i = 0; i < scene.sceneObject.size(); ++i) {
 		glDeleteVertexArrays(1, &scene.sceneObject[i].sceneObjInfo.VAO);
 	}
-	
+
 	// Finaliza a execução da GLFW, limpando os recursos alocados por ela
 	glfwTerminate();
 	return 0;
