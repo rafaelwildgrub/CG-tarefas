@@ -1,13 +1,12 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (Modulo4.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
   stb_image.cpp
-  Origem.cpp
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\Common\src\stb_image.cpp(2,10): error C1083: Não é possível abrir arquivo incluir: 'stb_image.h': No such file or directory
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M4-iluminacao\Origem.cpp(36,20): warning C4305: 'inicializando': truncamento de 'double' para 'float'
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M4-iluminacao\Origem.cpp(207,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M4-iluminacao\Origem.cpp(211,13): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M4-iluminacao\Origem.cpp(226,25): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M4-iluminacao\Origem.cpp(288,31): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M4-iluminacao\Origem.cpp(450,24): warning C4305: 'argumento': truncamento de 'double' para 'float'
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M4-iluminacao\Origem.cpp(457,42): warning C4305: 'argumento': truncamento de 'double' para 'float'
   SceneObject.cpp
   Gerando Código...
+  glad.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinição de macro
+  (compilando o arquivo fonte '../dependencies/GLAD/src/glad.c')
+  C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\dependencies\x64\GLAD\include\glad\glad.h(646,1):
+  consulte a definição anterior de 'APIENTRY'
+  
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  Modulo4.vcxproj -> C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M4-iluminacao\x64\Debug\M4-iluminacao.exe
