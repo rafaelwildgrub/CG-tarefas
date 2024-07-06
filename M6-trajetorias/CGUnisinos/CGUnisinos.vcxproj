@@ -24,7 +24,7 @@
     <ProjectGuid>{7d731b91-d499-42cf-9fc9-1205a933fdde}</ProjectGuid>
     <RootNamespace>CGUnisinos</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>M6-trajetorias-antigo</ProjectName>
+    <ProjectName>M6-trajetorias</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -105,12 +105,12 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\dependencies\x64\glfw-3.3.4.bin.WIN64\include;C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\dependencies\GLAD\include;C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\dependencies\glm;C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\dependencies\json-develop\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>F:\GitHub\CG-tarefas\dependencies\x64\glfw-3.3.4.bin.WIN64\include;F:\GitHub\CG-tarefas\dependencies\GLAD\include;F:\GitHub\CG-tarefas\dependencies\glm;F:\GitHub\CG-tarefas\M6-trajetorias\dependencies\json-develop\include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\dependencies\x64\glfw-3.3.4.bin.WIN64\lib-vc2022;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>F:\GitHub\CG-tarefas\dependencies\x64\glfw-3.3.4.bin.WIN64\lib-vc2022;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glfw3.lib;opengl32.lib;user32.lib;gdi32.lib;shell32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <ProjectReference>

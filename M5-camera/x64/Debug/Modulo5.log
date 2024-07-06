@@ -1,57 +1,57 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (Modulo5.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
   stb_image.cpp
   Camera.cpp
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(16,28): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(17,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(45,19): warning C4244: '-=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(74,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(75,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(79,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(80,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(82,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(83,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(16,28): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(17,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(45,19): warning C4244: '-=': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(74,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(75,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(79,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(80,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(82,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(83,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
   Origem.cpp
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(16,28): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(16,28): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(17,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(17,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(45,19): warning C4244: '-=': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(45,19): warning C4244: '-=': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(74,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(74,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(75,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(75,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(79,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(79,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(80,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(80,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(82,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(82,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Camera.cpp(83,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Camera.cpp(83,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
   (compilando o arquivo fonte 'Origem.cpp')
   
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Origem.cpp(34,20): warning C4305: 'inicializando': truncamento de 'double' para 'float'
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Origem.cpp(213,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Origem.cpp(217,13): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Origem.cpp(231,25): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Origem.cpp(288,31): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\Origem.cpp(415,24): warning C4305: 'argumento': truncamento de 'double' para 'float'
+F:\GitHub\CG-tarefas\M5-camera\Origem.cpp(34,20): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+F:\GitHub\CG-tarefas\M5-camera\Origem.cpp(213,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Origem.cpp(217,13): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Origem.cpp(231,25): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Origem.cpp(288,31): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+F:\GitHub\CG-tarefas\M5-camera\Origem.cpp(415,24): warning C4305: 'argumento': truncamento de 'double' para 'float'
   SceneObject.cpp
   Gerando Código...
   glad.c
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinição de macro
   (compilando o arquivo fonte '../dependencies/GLAD/src/glad.c')
-  C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\dependencies\x64\GLAD\include\glad\glad.h(646,1):
+  F:\GitHub\CG-tarefas\dependencies\x64\GLAD\include\glad\glad.h(646,1):
   consulte a definição anterior de 'APIENTRY'
   
-  LINK : C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\x64\Debug\M5-camera.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
+  LINK : F:\GitHub\CG-tarefas\M5-camera\x64\Debug\M5-camera.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
 LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
-  Modulo5.vcxproj -> C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M5-camera\x64\Debug\M5-camera.exe
+  Modulo5.vcxproj -> F:\GitHub\CG-tarefas\M5-camera\x64\Debug\M5-camera.exe
