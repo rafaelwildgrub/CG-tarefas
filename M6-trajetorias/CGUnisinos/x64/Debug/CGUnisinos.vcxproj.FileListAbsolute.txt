@@ -1,2 +1,3 @@
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\x64\Debug\M6-trajetoria.exe
-C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\x64\Debug\M6-trajetoria.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-main-tarefas\M6-trajetorias\CGUnisinos\x64\Debug\M6-trajetorias.exe
+F:\Git-Original\M6-trajetorias\CGUnisinos\x64\Debug\M6-trajetorias-antigo.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\CG-tarefas\M6-trajetorias\CGUnisinos\x64\Debug\M6-trajetorias-antigo.exe

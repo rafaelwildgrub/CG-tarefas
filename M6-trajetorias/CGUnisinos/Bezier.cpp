@@ -1,6 +1,8 @@
+#pragma once
 #include "Curve.cpp"
 
-class Bezier : public Curve
+class Bezier :
+    public Curve
 {
 public:
 	Bezier()
@@ -12,7 +14,7 @@ public:
 		);
 	}
 
-	void generateCurve(int pointsPerSegment)
+    void generateCurve(int pointsPerSegment)
 	{
 		float step = 1.0 / (float)pointsPerSegment;
 
@@ -71,5 +73,5 @@ public:
 
 		// Desvincula o VAO (é uma boa prática desvincular qualquer buffer ou array para evitar bugs medonhos)
 		glBindVertexArray(0);
-	};
+	}
 };

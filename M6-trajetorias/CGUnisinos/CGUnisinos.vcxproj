@@ -24,7 +24,7 @@
     <ProjectGuid>{7d731b91-d499-42cf-9fc9-1205a933fdde}</ProjectGuid>
     <RootNamespace>CGUnisinos</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>M6-trajetoria</ProjectName>
+    <ProjectName>M6-trajetorias-antigo</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -125,7 +125,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Códigos\Faculdade\Computação Gráfica\AtividadesCGUnisinos\dependencies\glfw-3.4.bin.WIN64\include;C:\Códigos\Faculdade\Computação Gráfica\AtividadesCGUnisinos\dependencies\GLAD\include;C:\Códigos\Faculdade\Computação Gráfica\AtividadesCGUnisinos\dependencies\glm</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Códigos\Faculdade\Computação Gráfica\AtividadesCGUnisinos\dependencies\glfw-3.4.bin.WIN64\include;C:\Códigos\Faculdade\Computação Gráfica\AtividadesCGUnisinos\dependencies\GLAD\include;C:\Códigos\Faculdade\Computação Gráfica\AtividadesCGUnisinos\dependencies\glm;C:\Códigos\Faculdade\Computação Gráfica\AtividadesCGUnisinos\dependencies\json-develop\include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -144,11 +144,11 @@
     <ClCompile Include="..\dependencies\GLAD\src\glad.c" />
     <ClCompile Include="Bezier.cpp" />
     <ClCompile Include="Camera.cpp" />
-    <ClCompile Include="CatmullRom.cpp" />
     <ClCompile Include="Curve.cpp" />
-    <ClCompile Include="Hermite.cpp" />
     <ClCompile Include="Origem.cpp" />
-    <ClCompile Include="SceneObject.cpp" />
+    <ClCompile Include="Scene.cpp" />
+    <ClCompile Include="SceneObj.cpp" />
+    <ClCompile Include="SceneObjInfo.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Common\include\stb_image.h" />
